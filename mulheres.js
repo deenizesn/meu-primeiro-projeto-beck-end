@@ -8,7 +8,7 @@ const mulheres = [
     {
         nome: 'Abigail',
         imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIc7XR-6rfWcNkH2l1-u8XCuawhSo6fh6ZBw&s',
-        minibio: 'A história de Abigail está relatada na bíblia, e ela é uma referência de mulher apaziguadora'
+        minibio: 'Abigail, personagem bíblica, é conhecida por sua sabedoria, coragem e habilidade em pacificar conflitos. Ela evitou um confronto perigoso entre seu marido Nabal e o futuro rei Davi, demonstrando discernimento e liderança.'
     },
     {
         nome: 'Tiana',
