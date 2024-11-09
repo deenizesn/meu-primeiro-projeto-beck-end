@@ -6,19 +6,19 @@ const porta = 3333
 
 const mulheres = [
     {
-        nome: 'Simara Conceição',
-        imagem: 'https://bit.ly/3LJIyOF',
-        minibio: 'Desenvolvedora e instrutora'
+        nome: 'Abigail',
+        imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIc7XR-6rfWcNkH2l1-u8XCuawhSo6fh6ZBw&s',
+        minibio: 'A história de Abigail está relatada na bíblia, e ela é uma referência de mulher apaziguadora'
     },
     {
-        nome: 'Iana Chan',
-        imagem: 'https://bit.ly/3JCXBqP',
-        minibio: 'CEO & Founder da PrograMaria'
+        nome: 'Tiana',
+        imagem: 'https://conteudo.imguol.com.br/c/entretenimento/c2/2018/07/27/tiana-de-a-princesa-e-o-sapo-2009-foi-a-primeira-princesa-negra-em-animacao-da-disney-1532712037444_v2_3x4.jpg',
+        minibio: 'Tiana é a protagonista do filme A Princesa e o Sapo, é uma garota independete e determina a realizar seus sonhos'
     },
     {
-        nome:'Luana Pimentel',
-        imagem:'https://bit.ly/3FKpFaz',
-        minibio:'Senior Staff Software Engineer'
+        nome:'Ada Lovelace',
+        imagem:'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ada_lovelace.jpg/200px-Ada_lovelace.jpg',
+        minibio:'Ada Lovelace (1815-1852) foi uma matemática britânica e é considerada a primeira programadora da história.'
     },
 ]
 
