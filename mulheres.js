@@ -13,7 +13,7 @@ const mulheres = [
     {
         nome: 'Tiana',
         imagem: 'https://conteudo.imguol.com.br/c/entretenimento/c2/2018/07/27/tiana-de-a-princesa-e-o-sapo-2009-foi-a-primeira-princesa-negra-em-animacao-da-disney-1532712037444_v2_3x4.jpg',
-        minibio: 'Tiana é a protagonista do filme A Princesa e o Sapo, é uma garota independete e determina a realizar seus sonhos'
+        minibio: 'Tiana é a protagonista do filme A Princesa e o Sapo. Uma jovem independente e determinada, ela trabalha esforçadamente para realizar seu sonho de abrir seu próprio restaurante.'
     },
     {
         nome:'Ada Lovelace',
